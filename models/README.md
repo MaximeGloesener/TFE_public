@@ -27,6 +27,4 @@ model.load_state_dict(checkpoint)
 
 
 ```
-Avec 10 qui est le nombre de classes pour le jeu de données CIFAR10, initialiser avec resnet56(100) pour le jeu de données CIFAR100. 
-
-Les modèles servent juste d'exemple mais vous pouvez bien évidemment charger votre propre modèle. 
+Avec 10 qui est le nombre de classes pour le jeu de données CIFAR10, initialiser avec *resnet56(100)* pour le jeu de données CIFAR100. 
